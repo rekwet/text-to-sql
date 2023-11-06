@@ -94,3 +94,4 @@ src/data/raw/*
 
 # Mypy cache
 .mypy_cache/
+config.env

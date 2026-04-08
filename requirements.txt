@@ -31,5 +31,5 @@ langchain==0.0.222
 langchainplus-sdk==0.0.20
 SQLAlchemy==2.0.17
 sentence-transformers==2.2.2
-transformers==4.30.2
+transformers==5.0.0rc3
 
